@@ -11,6 +11,16 @@ body {
     background-color: #d9dcd6;
 }
 
+.float-left  {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -62,7 +72,7 @@ p {
     background-position: center;
 }
 
-.float-left  {
+/* .float-left  {
     float: left;
     margin-right: 25px;
 }
@@ -70,29 +80,29 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
+} */
 
 /* Services */
-.Services{
+.services{
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-.search-engine-optimization {
+.service{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-     /* background-color: #0072bb; */
+    background-color: #0072bb;
     color: #ffffff;
 }
-
+/* 
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* background-color: #0072bb; */
+    background-color: #0072bb;
     color: #ffffff;
 }
 
@@ -101,13 +111,13 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* background-color: #0072bb; */
+    background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.service {
+/* .service {
     background-color: #0072bb;  
-}
+} */
 
 .search-engine-optimization img {
     max-height: 200px;
