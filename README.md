@@ -2,7 +2,7 @@
 
 # Project Title
 
-One Paragraph of project description goes here
+Horiseon Marketing 
 
 ## Getting Started
 
