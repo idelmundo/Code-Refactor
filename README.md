@@ -26,7 +26,7 @@ What things you need to install the software and how to install them
 -Clone SSH key and save the file in your desktop or documnet.
 -Open terminal and go to the folder you've created 
  for example:
-  <img src="/Users/isaias/Desktop/Code-Refactor/assets/images/Screen Shot 2020-06-11 at 4.28.27 PM.jpg">
+  <img src="/assests/image/Screen-shot.jpg>
  
 
 ## Built With
