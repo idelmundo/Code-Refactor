@@ -27,17 +27,23 @@ What things you need to install the software and how to install them
 <p> -Open terminal and go to the folder you've created 
  for example:
   ![](Screen-Shot.png)
-frome here Visual code should open with the folder on the side bar. </p>
+from here Visual code should open with the folder on the side bar. </p>
+ <img width="587" alt="Screen Shot 2020-06-11 at 4 28 27 PM" src="https://user-images.githubusercontent.com/64993651/84466315-ff014300-ac2d-11ea-885d-10cfc0ee06e6.png">
+
 </body>
 
 ### Line by line changes 
 <body>
 <p> When I recieved this code I didn't see any HTML semantic elements. So I've replaced a bunch of Divs to a semantic elements to make it easier to read. Here an example:</p>
-  ![](html.png) 
+  ![](html.png) <img width="587" alt="html" src="https://user-images.githubusercontent.com/64993651/84466463-4c7db000-ac2e-11ea-96ff-138102ae5f40.png">
+
 <p> In the picture above, on line 13 and 15 these were div at first and i've replaced it to header and nav that way when others read it they know what they are. </p>
- ![](images2/html-2.png)
+ ![](images2/html-2.png) <img width="587" alt="HTML2" src="https://user-images.githubusercontent.com/64993651/84466528-6ae3ab80-ac2e-11ea-94eb-63d165ab6dca.png">
+
 <p>This section is called service due to the picture shown and how it was being promoted. I've replaced the div to section and added a class name to organize css stylesheet later on. I also added alt on images so if the link is broken it can look for an image similar to it. </p>
- ![](html-3.png)
+ ![](html-3.png) 
+<img width="587" alt="html-3" src="https://user-images.githubusercontent.com/64993651/84466560-7a62f480-ac2e-11ea-8acb-17da67819c75.png">
+
 <p> This section is called benefit since they're explaining how it will help the company over time. I've replaced the divs to aside and aritlce to be in semantic form. This also didn't have any footer which i added so people would know that this is the end.</p>  
 </body>
 
