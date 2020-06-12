@@ -6,34 +6,28 @@ Horiseon Marketing
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. 
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
-
-```
-Give examples
-```
+-Laptop 
+-Github account 
+-Terminal 
+-Gitbash for PC
+-Download code editor such as Visual studio code or atom 
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
+-Create GitHub account 
+-Go to your terminal and setup GitHub SSH 
+-Follow this link:https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+-Once you've completed creating ssh here's the link for Horiseon Marketing: https://github.com/idelmundo/Code-Refactor
+-Clone SSH key and save the file in your desktop or documnet.
+-Open terminal and go to the folder you've created 
+ for example:
+  <img src="/Users/isaias/Desktop/Code-Refactor/assets/images/Screen Shot 2020-06-11 at 4.28.27 PM.jpg">
+ 
 
 ## Built With
 
