@@ -15,7 +15,7 @@ What things you need to install the software and how to install them
 -Github account 
 -Terminal 
 -Gitbash for PC
--Download code editor such as Visual studio code or atom 
+-Download code editor such as Visual studio code or Atom 
 
 ### Installing
 
@@ -26,8 +26,9 @@ What things you need to install the software and how to install them
 -Clone SSH key and save the file in your desktop or documnet.
 -Open terminal and go to the folder you've created 
  for example:
-  <img src="/assests/image/Screen-shot.jpg>
- 
+  ![Screenshot](Screen-shot.jpg)
+frome here 
+
 
 ## Built With
 
