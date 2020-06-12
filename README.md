@@ -26,27 +26,28 @@ What things you need to install the software and how to install them
 <p> -Clone SSH key and save the file in your desktop or documnet.</p>
 <p> -Open terminal and go to the folder you've created 
  for example:
-  ![screenshot](images2/Screen-Shot.png)
+  ![](Screen-Shot.png)
 frome here Visual code should open with the folder on the side bar. </p>
 </body>
 
 ### Line by line changes 
 <body>
 <p> When I recieved this code I didn't see any HTML semantic elements. So I've replaced a bunch of Divs to a semantic elements to make it easier to read. Here an example:</p>
-  ![](images2/html.png) 
+  ![](html.png) 
 <p> In the picture above, on line 13 and 15 these were div at first and i've replaced it to header and nav that way when others read it they know what they are. </p>
  ![](images2/html-2.png)
 <p>This section is called service due to the picture shown and how it was being promoted. I've replaced the div to section and added a class name to organize css stylesheet later on. I also added alt on images so if the link is broken it can look for an image similar to it. </p>
- ![](images2/html-3.png)
+ ![](html-3.png)
 <p> This section is called benefit since they're explaining how it will help the company over time. I've replaced the divs to aside and aritlce to be in semantic form. This also didn't have any footer which i added so people would know that this is the end.</p>  
 </body>
 
+<p>As for stylesheets I removed all the repetition style and made it to one class to reduce clutter. I also tried make it in alpahbetical order and made section to make it easier to style. </p>
 
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 ## Deployed Link
 
@@ -56,19 +57,19 @@ frome here Visual code should open with the folder on the side bar. </p>
 ## Authors
 
 * **YOUR NAME** 
-
+Isaias Del Mundo 
 - [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Github](https://github.com/idelmundo)
+- [Link to LinkedIn](https://www.linkedin.com/in/isaiasdelmundo/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the YAY AREA License 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* MDN web docs 
+* UCBExtension 
+* GOOGLE
