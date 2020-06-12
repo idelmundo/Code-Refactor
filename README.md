@@ -19,15 +19,15 @@ What things you need to install the software and how to install them
 
 ### Installing
 <body>
-<p> -Create GitHub account  
--Go to your terminal and setup GitHub SSH 
--Follow this link:https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
--Once you've completed creating ssh here's the link for Horiseon Marketing: https://github.com/idelmundo/Code-Refactor
--Clone SSH key and save the file in your desktop or documnet.
--Open terminal and go to the folder you've created 
+<p> -Create GitHub account  </p>
+<p> -Go to your terminal and setup GitHub SSH </p> 
+<p> -Follow this link:https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account</p>
+<p> -Once you've completed creating ssh here's the link for Horiseon Marketing: https://github.com/idelmundo/Code-Refactor </p>
+<p> -Clone SSH key and save the file in your desktop or documnet.</p>
+<p> -Open terminal and go to the folder you've created 
  for example:
   ![](./assets/images/Screen-shot.png)
-frome here Visual code should open with the folder on the side bar.</p>
+frome here Visual code should open with the folder on the side bar. </p>
 </body>
 ### Line by line changes 
 When I recieved this code I didn't see any HTML semantic elements. So I've replaced a bunch of Divs to a semantic elements to make it easier to read. Here an example:
